@@ -1,0 +1,5 @@
+<link rel = "stylesheet" type ="text/css" href ="{% static 'main.css'%}">
+{% load static %}
+create a folder 
+then create css file 
+transfer the code from html to css file 
